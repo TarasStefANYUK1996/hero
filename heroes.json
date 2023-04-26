@@ -1,0 +1,33 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "name": "fghfgh",
+      "text": "нрепкапе",
+      "element": "fire",
+      "id": 2
+    }
+  ],
+  "filters": [
+    {
+      "all": "all"
+    },
+    {
+      "fire": "Огонь"
+    },
+    {
+      "water": "Вода"
+    },
+    {
+      "wind": "Ветер"
+    },
+    {
+      "earth": "Земля"
+    }
+  ]
+}
